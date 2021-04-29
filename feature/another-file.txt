@@ -2,3 +2,6 @@ update in feature 2 branch
 
 this file was modified locally.
  this line was updated in feature 2 branch
+
+ another modification .
+ 
